@@ -1,4 +1,4 @@
-# InstagramPasswordCracker
+nikhil_rajput__84# InstagramPasswordCracker
 Takes an argument of a username and a password list from standard input. Brute forces instagram account based on provided password list.
 
 <b>I take NO responsibility for the use of this script. This code is intended for educational purposes. Please DO NOT use this program for malicious purposes.</b>
